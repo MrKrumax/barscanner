@@ -1,0 +1,20 @@
+<Page class="page" loaded="loaded" unloaded="unloaded" xmlns="http://www.nativescript.org/tns.xsd">
+
+	<ActionBar class="action-bar" title="{{ name }}">
+		<NavigationButton visibility="collapse" />
+		<NavigationButton text="Назад" android.systemIcon="ic_menu_back" tap="backToProductList" />
+	</ActionBar>
+
+	<ScrollView>
+		<StackLayout id="container" flexDirection="column">
+			<!-- Ideally use Imagecache for ios and {N} Fresco for android here -->
+			<Image id="imageView" loaded="onLayout" height="400" width="400" visibility="collapsed" src="{{ imageUrl }}" stretch="aspectFit">
+			</Image>
+			<StackLayout id="details" translateY="200" class="m-20" opacity="0" visibility="collapsed">
+				<Label class="h2" text="{{ name }}" />
+				<Label class="h3" textWrap="true" text="{{ description }}" />
+				<Label fontSize="14" textWrap="true" text="{{ details }}" />
+			</StackLayout>
+		</StackLayout>
+	</ScrollView>
+</Page>

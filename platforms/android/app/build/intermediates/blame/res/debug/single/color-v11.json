@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/krumax/.android/build-cache/c037be4b485fe349542a370573b64f6a7e395ca2/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/krumax/.android/build-cache/c037be4b485fe349542a370573b64f6a7e395ca2/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

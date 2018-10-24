@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/history.xml",
+        "source": "/Users/krumax/.android/build-cache/9f69f6caf47c38729b7a4768129dba64c340ddbb/output/res/menu/history.xml"
+    },
+    {
+        "merged": "/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/encode.xml",
+        "source": "/Users/krumax/.android/build-cache/9f69f6caf47c38729b7a4768129dba64c340ddbb/output/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/capture.xml",
+        "source": "/Users/krumax/.android/build-cache/9f69f6caf47c38729b7a4768129dba64c340ddbb/output/res/menu/capture.xml"
+    }
+]

@@ -1,0 +1,33 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "org.nativescript.skladscaner",
+    "tns-android": {
+      "version": "3.4.2"
+    },
+    "tns-ios": {
+      "version": "3.4.1"
+    }
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "get-json": "^1.0.0",
+    "nativescript-barcodescanner": "^2.7.5",
+    "nativescript-fonticon": "^1.1.1",
+    "nativescript-theme-core": "~1.0.4",
+    "npm": "^5.8.0",
+    "request": "^2.85.0",
+    "tns-core-modules": "~3.4.0"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.26.0",
+    "babel-types": "6.26.0",
+    "babylon": "6.18.0",
+    "json-loader": "^0.5.7",
+    "lazy": "1.0.11"
+  },
+  "author": "krumax"
+}

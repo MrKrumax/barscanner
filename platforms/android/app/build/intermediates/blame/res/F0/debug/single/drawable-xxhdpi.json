@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/icon.png",
+        "source": "/Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/launcher_icon.png",
+        "source": "/Users/krumax/.android/build-cache/9f69f6caf47c38729b7a4768129dba64c340ddbb/output/res/drawable-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/background.png",
+        "source": "/Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/logo.png",
+        "source": "/Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/res/drawable-xxhdpi/logo.png"
+    }
+]

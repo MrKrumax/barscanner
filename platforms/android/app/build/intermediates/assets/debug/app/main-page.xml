@@ -1,0 +1,20 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" class="page">
+    <Page.actionBar>
+        <ActionBar title="Krumax Dev" icon="" class="action-bar">
+        </ActionBar>
+    </Page.actionBar>
+     <TabView>
+       <TabView.items>
+         <TabViewItem title="История" xmlns:HistoryTab="history">
+           <TabViewItem.view>
+            <HistoryTab:history/>
+           </TabViewItem.view>
+         </TabViewItem>
+         <TabViewItem title="Категории" xmlns:CategoryTab="category">
+           <TabViewItem.view>
+            <CategoryTab:category/>
+           </TabViewItem.view>
+         </TabViewItem>
+       </TabView.items>
+     </TabView>
+</Page>

@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:3:2-39
+		INJECTED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [:nativescript-optimized:] /Users/krumax/.android/build-cache/60a86e82618a1898a140ddd046f54bbcb7f74e0e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/krumax/.android/build-cache/a0b8af6a811aece69b0c2c9d2db58b1cd8db228d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/krumax/.android/build-cache/9bb37e625a5a20d5106797717f86404ac24af876/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/krumax/.android/build-cache/c037be4b485fe349542a370573b64f6a7e395ca2/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/krumax/.android/build-cache/a24bafad78b09faddc3e8d2742d87f706ed83906/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/krumax/.android/build-cache/2cd509b957f35d23ab9cc96c65f2a2a09dc63654/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/krumax/.android/build-cache/b54d69a8fadddd390623391e6738a0fe3d38d373/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/krumax/.android/build-cache/c281420cfd537cdddfc6b60750013c0f10592a17/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/krumax/.android/build-cache/23c1f3f3ccfc507eb9492e35ec5f19e707cb21f9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/krumax/.android/build-cache/5875600cb06e837d15866502e410a632d5afaeb0/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/krumax/.android/build-cache/0466ca22236713f8151cf12ad2c13e40f3ea99ed/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/krumax/.android/build-cache/5ee4ea6e8414816fdf7f41eef1be7da2351e6d50/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/krumax/.android/build-cache/207041bdf9bc4e29d36719332e1e68df8f9c5030/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/krumax/.android/build-cache/08f5d5564dcae8ddcd646465c257a4b3d1f4ad94/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/krumax/.android/build-cache/9bb37e625a5a20d5106797717f86404ac24af876/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [:widgets-release:] /Users/krumax/.android/build-cache/a0b8af6a811aece69b0c2c9d2db58b1cd8db228d/output/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/krumax/.android/build-cache/9bb37e625a5a20d5106797717f86404ac24af876/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/krumax/.android/build-cache/c037be4b485fe349542a370573b64f6a7e395ca2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/krumax/.android/build-cache/a24bafad78b09faddc3e8d2742d87f706ed83906/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/krumax/.android/build-cache/2cd509b957f35d23ab9cc96c65f2a2a09dc63654/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/krumax/.android/build-cache/c281420cfd537cdddfc6b60750013c0f10592a17/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/krumax/.android/build-cache/23c1f3f3ccfc507eb9492e35ec5f19e707cb21f9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/krumax/.android/build-cache/5875600cb06e837d15866502e410a632d5afaeb0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/krumax/.android/build-cache/0466ca22236713f8151cf12ad2c13e40f3ea99ed/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/krumax/.android/build-cache/5ee4ea6e8414816fdf7f41eef1be7da2351e6d50/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/krumax/.android/build-cache/207041bdf9bc4e29d36719332e1e68df8f9c5030/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/krumax/.android/build-cache/08f5d5564dcae8ddcd646465c257a4b3d1f4ad94/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /Users/krumax/Documents/project/barscanner/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/krumax/.android/build-cache/9bb37e625a5a20d5106797717f86404ac24af876/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/krumax/.android/build-cache/c037be4b485fe349542a370573b64f6a7e395ca2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/krumax/.android/build-cache/a24bafad78b09faddc3e8d2742d87f706ed83906/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/krumax/.android/build-cache/2cd509b957f35d23ab9cc96c65f2a2a09dc63654/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/krumax/.android/build-cache/b54d69a8fadddd390623391e6738a0fe3d38d373/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/krumax/.android/build-cache/c281420cfd537cdddfc6b60750013c0f10592a17/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/krumax/.android/build-cache/23c1f3f3ccfc507eb9492e35ec5f19e707cb21f9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/krumax/.android/build-cache/5875600cb06e837d15866502e410a632d5afaeb0/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/krumax/.android/build-cache/0466ca22236713f8151cf12ad2c13e40f3ea99ed/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/krumax/.android/build-cache/5ee4ea6e8414816fdf7f41eef1be7da2351e6d50/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/krumax/.android/build-cache/207041bdf9bc4e29d36719332e1e68df8f9c5030/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/krumax/.android/build-cache/08f5d5564dcae8ddcd646465c257a4b3d1f4ad94/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/krumax/.android/build-cache/9bb37e625a5a20d5106797717f86404ac24af876/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/krumax/.android/build-cache/9bb37e625a5a20d5106797717f86404ac24af876/output/AndroidManifest.xml:26:9-47

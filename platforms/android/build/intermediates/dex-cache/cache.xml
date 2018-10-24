@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/krumax/.android/build-cache/9f69f6caf47c38729b7a4768129dba64c340ddbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d4f602a67efec62a1db4e4b2e695e8270fd0a1c">
+        <dex dex="/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_234b4dc4c5362d4c157b67295f23720884d65d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krumax/.android/build-cache/60a86e82618a1898a140ddd046f54bbcb7f74e0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/pre-dexed/debug/classes_4b238c34592eb56eba591fc22fab24f7b62258ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krumax/.android/build-cache/a0b8af6a811aece69b0c2c9d2db58b1cd8db228d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/krumax/Documents/project/barscanner/platforms/android/app/build/intermediates/pre-dexed/debug/classes_341978ba5bd728be02d962b023a3143a6db9c98b.jar" />
+    </item>
+
+</items>

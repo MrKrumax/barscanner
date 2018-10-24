@@ -1,0 +1,9 @@
+<stack-layout>
+  <ListView items="{{ myItems }}"  class="list-group" itemTap="categoryItemTap">
+     <ListView.itemTemplate>
+       <GridLayout class="list-group-item">
+        <Label text="{{ name || 'Downloading...' }}" textWrap="true" class="title" />
+        </GridLayout>
+     </ListView.itemTemplate>
+  </ListView>
+</stack-layout>
