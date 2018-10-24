@@ -1,0 +1,22 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingToProducts" class="page">
+  <Page.actionBar>
+    <ActionBar title="{{category.name}}">
+      <NavigationButton text="Назад" android.systemIcon="ic_menu_back" tap="backToCategoryList"/>
+    </ActionBar>
+  </Page.actionBar>
+  <stack-layout>
+    <grid-layout columns="*">
+     <list-view items="{{products}}" class="listview" itemTap="onProductTap">
+       <list-view.itemTemplate>
+         <grid-layout columns="50, *" rows="*" class="item item-thumbnail">
+           <image id="{{ id + 'image' }}" src="{{ thumb }}" col="0" />
+           <stack-layout col="1">
+             <label id="{{ id + 'name' }}" text="{{ name }}" class="h2" col="1"/>
+             <label text="{{ price }}" class="p" col="1"/>
+           </stack-layout>
+         </grid-layout>
+       </list-view.itemTemplate>
+     </list-view>
+   </grid-layout>
+  </stack-layout>
+</Page>
